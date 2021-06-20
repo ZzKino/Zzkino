@@ -3,7 +3,7 @@
 # About me:
 + Other nickname: **Phuongaz**
 - 🇻🇳 I'm a Vietnamese high-school student
-- 🌱 I’m currently learning **[PHP](https://www.php.net/), [PyThon](https://www.python.org/), [NodeJS](https://nodejs.org/), ...**
+- 🌱 I’m currently learning **[PHP](https://www.php.net/), [Python](https://www.python.org/), [NodeJS](https://nodejs.org/), ...**
 - 📧 Contact me:
   + Email: **clonevcc1@gmail.com**
   + Facebook: **[Nguyễn Phương](https://www.facebook.com/Phuong0Ngu)**
