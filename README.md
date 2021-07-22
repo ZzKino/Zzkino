@@ -1,7 +1,6 @@
 # `Hey! I'm ZzKino 👋`
 
 # About me:
-+ Other nickname: **Phuongaz**
 - 🇻🇳 I'm a Vietnamese high-school student
 - 🌱 I’m currently learning **[PHP](https://www.php.net/), [Python](https://www.python.org/), [Go](https://golang.org) ...**
 - 📧 Contact me:
