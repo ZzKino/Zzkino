@@ -2,7 +2,7 @@
 
 # About me:
 - 🇻🇳 I'm a Vietnamese high-school student
-- 🌱 I’m currently learning **[PHP](https://www.php.net/), [Python](https://www.python.org/), [Go](https://golang.org) ...**
+- 🌱 I’m currently learning **[Python](https://www.python.org/), [Go](https://golang.org) ...**
 - 📧 Contact me:
   + Email: **clonevcc1@gmail.com**
   + Facebook: **[Nguyễn Phương](https://www.facebook.com/Phuong0Ngu)**
